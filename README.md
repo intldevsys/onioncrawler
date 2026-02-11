@@ -36,7 +36,6 @@ A Tampermonkey/Greasemonkey userscript that recursively crawls directory listing
 
 3. **Look for the crawler UI** in the top-right corner of the page
    - The UI only appears on detected directory listings
-   - Shows a dark control panel with spider emoji 🕷️
 
 4. **Click "Start Crawl"** to begin recursive crawling
    - Watch real-time statistics update
